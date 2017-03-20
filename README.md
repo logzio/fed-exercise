@@ -1,4 +1,4 @@
-Logz.io JS Interview Exercise  
+Logz.io FED Interview Exercise  
 ==  
 
 The main idea of this exercise is to create a website comments component.  
