@@ -1,7 +1,7 @@
 {
-  "name": "js-exercise",
+  "name": "fed-exercise",
   "version": "1.0.0",
-  "description": "A simple interview exercise",
+  "description": "A simple interview exercise for a new Logz.io FED",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
