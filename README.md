@@ -12,7 +12,8 @@ so you should have all you need to start.
 * When a user enters text in the filter input, it will filter the comments accordingly.
 * Add server side validation to the submitted comment.  
 * No need to use any kind of db or persistency.  
-* Do not use any UI/CSS framework (i.e.: bootstrap)
+* Do not use any UI/CSS framework (i.e.: bootstrap)  
+* Do not send the `node_modules` directory back, and do not commit it. It is not needed (and you shouldn't have any changes there anyway).
 
 
 **Additional Notes :**  
