@@ -25,7 +25,7 @@ so you should have all you need to start.
 **For Bonus Points :**  
 * Design a responsive layout.  
 * Add unit tests.  
-* Save the newly added comments on the client, so they will be saved when refreshing the page.  
+* Save the newly added comments on the server, so they will be saved when refreshing the page.  
 
 
 **How to use the code :**  
