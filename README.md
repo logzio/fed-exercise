@@ -17,16 +17,16 @@ so you should have all you need to start.
 
 
 **Additional Notes :**  
-* Use an MVC framework of choice - AngularJS, Backbone, Ember, etc.  
+* Use an MVC framework of choice - AngularJS, Angular, React etc.
 * Make sure all code is clean and testable, as you would commit it to production.  
 * You can use other known js libraries as you see fit.  
 * You should work on this exercise ~2-3 hours, not more. I assume you won't complete everything in this time frame, and that's ok - The idea is to see some code you worked on, and not to have a perfect working project that's production ready. (Perfect is the enemy of good)  
 * You can use ES6 synatx
 
 **For Bonus Points :**  
-* Design a responsive layout.  
 * Add unit tests.  
-* Save the newly added comments on the server, so they will be saved when refreshing the page.  
+* Save the newly added comments on the server, so they will be saved when refreshing the page.
+* Design a responsive layout.  
 
 
 **How to use the code :**  
